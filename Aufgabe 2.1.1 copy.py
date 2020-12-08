@@ -1,0 +1,17 @@
+from gturtle import *
+makeTurtle()
+
+dot(30)
+right(45)
+forward(100)
+dot(30)
+right(90)
+forward(100)
+dot(30)
+left(90)
+forward(100)
+dot(30)
+right(90)
+forward(100)
+dot(30)
+hideTurtle()
